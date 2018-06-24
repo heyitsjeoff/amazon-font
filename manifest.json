@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "amazon-font",
+  "description": "overrides the amazon font with Amazon Ember",
   "version": "0.1",
   "content_scripts": [
     {
